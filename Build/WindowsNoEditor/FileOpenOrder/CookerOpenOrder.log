@@ -1,72 +1,72 @@
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 0
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/xbot_Skeleton.uasset" 1
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/Animations/Idle__1_.uasset" 2
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/BluePrints/BP_PlayerController.uasset" 3
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/BluePrints/BP_XBOT_Chara.uasset" 4
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BP_VBOT.uasset" 5
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Idle_PhysicsAsset.uasset" 6
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Idle_PhysicsAsset.uasset" 7
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_PhysicsAsset.uasset" 8
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Skeleton.uasset" 9
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping.uasset" 10
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Jumping.uasset" 11
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Anim_mixamo_com.uasset" 12
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Jumping_Anim_mixamo_com.uasset" 13
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Anim_Take_001.uasset" 14
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Jumping_Anim_Take_001.uasset" 15
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Jumping_PhysicsAsset.uasset" 16
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Jumping_Skeleton.uasset" 17
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/MK_XBOT_Joints.uasset" 18
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/MK_XBOT_Limbs.uasset" 19
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/SK_XBOT_Idle.uasset" 20
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/SK_XBOT_Idle.uasset" 21
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Animations/Sneak_Walk.uasset" 22
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/Animations/Sneak_Walk.uasset" 23
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/xbot_Anim_mixamo_com.uasset" 24
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/xbot_Anim_Take_001.uasset" 25
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WoodMaterial/plywood-albedo2b.uasset" 26
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WoodMaterial/plywood-ao.uasset" 27
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WoodMaterial/plywood-metalness.uasset" 28
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WoodMaterial/plywood-normal1.uasset" 29
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WoodMaterial/plywood-rough.uasset" 30
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/M_WoodFloor.uasset" 31
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/xbot_Skeleton.uasset" 1
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/Animations/Idle__1_.uasset" 2
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/BluePrints/BP_PlayerController.uasset" 3
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/BluePrints/BP_XBOT_Chara.uasset" 4
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BP_VBOT.uasset" 5
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Idle_PhysicsAsset.uasset" 6
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Idle_PhysicsAsset.uasset" 7
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_PhysicsAsset.uasset" 8
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Skeleton.uasset" 9
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping.uasset" 10
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Jumping.uasset" 11
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Anim_mixamo_com.uasset" 12
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Jumping_Anim_mixamo_com.uasset" 13
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Jumping_Anim_Take_001.uasset" 14
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Jumping_Anim_Take_001.uasset" 15
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Jumping_PhysicsAsset.uasset" 16
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Jumping_Skeleton.uasset" 17
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/MK_XBOT_Joints.uasset" 18
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/MK_XBOT_Limbs.uasset" 19
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/SK_XBOT_Idle.uasset" 20
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/SK_XBOT_Idle.uasset" 21
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Animations/Sneak_Walk.uasset" 22
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/Animations/Sneak_Walk.uasset" 23
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/xbot_Anim_mixamo_com.uasset" 24
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/xbot_Anim_Take_001.uasset" 25
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WoodMaterial/plywood-albedo2b.uasset" 26
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WoodMaterial/plywood-ao.uasset" 27
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WoodMaterial/plywood-metalness.uasset" 28
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WoodMaterial/plywood-normal1.uasset" 29
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WoodMaterial/plywood-rough.uasset" 30
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/M_WoodFloor.uasset" 31
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 32
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 33
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 34
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 35
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 36
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Torch/T_Flame_D.uasset" 37
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Torch/M_Flame.uasset" 38
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Torch/PS_Torch.uasset" 39
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Torch/BP_Torch.uasset" 40
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BP_Torch.uasset" 41
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_albedo.uasset" 42
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_albedo.uasset" 43
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_ao.uasset" 44
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_ao.uasset" 45
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_height.uasset" 46
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_height.uasset" 47
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_metallic.uasset" 48
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_metallic.uasset" 49
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_normal-dx.uasset" 50
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_normal-dx.uasset" 51
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_roughness.uasset" 52
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stone-block-wall_roughness.uasset" 53
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-albedo.uasset" 54
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-albedo.uasset" 55
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-ao.uasset" 56
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-ao.uasset" 57
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-height2.uasset" 58
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-height2.uasset" 59
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-metalness.uasset" 60
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-metalness.uasset" 61
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-normal.uasset" 62
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-normal.uasset" 63
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-roughness.uasset" 64
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/stonewall-roughness.uasset" 65
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Collectible/BP_Collectible.uasset" 66
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Terrain/M_Terrain.uasset" 67
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Terrain/MI_Terrain_Desert.uasset" 68
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Torch/T_Flame_D.uasset" 37
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Torch/M_Flame.uasset" 38
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Torch/PS_Torch.uasset" 39
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Torch/BP_Torch.uasset" 40
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BP_Torch.uasset" 41
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_albedo.uasset" 42
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_albedo.uasset" 43
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_ao.uasset" 44
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_ao.uasset" 45
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_height.uasset" 46
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_height.uasset" 47
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_metallic.uasset" 48
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_metallic.uasset" 49
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_normal-dx.uasset" 50
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_normal-dx.uasset" 51
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/WallMaterial/stone-block-wall_roughness.uasset" 52
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stone-block-wall_roughness.uasset" 53
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-albedo.uasset" 54
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-albedo.uasset" 55
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-ao.uasset" 56
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-ao.uasset" 57
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-height2.uasset" 58
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-height2.uasset" 59
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-metalness.uasset" 60
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-metalness.uasset" 61
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-normal.uasset" 62
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-normal.uasset" 63
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/FloorMaterial/stonewall-roughness.uasset" 64
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/stonewall-roughness.uasset" 65
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Collectible/BP_Collectible.uasset" 66
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Terrain/M_Terrain.uasset" 67
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Terrain/MI_Terrain_Desert.uasset" 68
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 69
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 70
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 71
@@ -202,59 +202,54 @@
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 201
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 202
 "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 203
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 204
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 205
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 206
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 207
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 208
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 209
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 210
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 211
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 212
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 213
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 214
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 215
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 216
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 217
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 218
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 219
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 220
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 221
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 222
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 223
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 224
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 225
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 226
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 227
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 228
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 229
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 230
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 231
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 232
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 233
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 234
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 235
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 236
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Beta_HighLimbsGeoSG2.uasset" 237
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/Beta_Joints_MAT.uasset" 238
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/xbot_PhysicsAsset.uasset" 239
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/X-Bot/BrokenSkeletons/xbot.uasset" 240
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Character/BluePrints/BP_Character1.uasset" 241
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Worlds/GM_Adventure2.uasset" 242
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Worlds/DemoDungeon_BuiltData.uasset" 243
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/M_Floor.uasset" 244
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_basecolor.uasset" 245
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_basecolor-boosted.uasset" 246
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_metallic.uasset" 247
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_normal.uasset" 248
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_roughness.uasset" 249
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/M_Gold.uasset" 250
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/M_Ruby.uasset" 251
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/BuildingMaterials/M_Wall.uasset" 252
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Terrain/M_SurfaceWater.uasset" 253
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Environment/Terrain/M_Water.uasset" 254
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 255
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Worlds/UI_GameStates.uasset" 256
-"../../../../../../Users/s208068/source/repos/GraphicsDemoDungeon/Content/Worlds/DemoDungeon.umap" 257
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 258
-"../../../Engine/Content/Maps/Entry.umap" 259
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 204
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 205
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 206
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 207
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 208
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 209
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 210
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 211
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 212
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 213
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 214
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 215
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 216
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 217
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 218
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 219
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 220
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 221
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 222
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 223
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 227
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 228
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 229
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 230
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 231
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Beta_HighLimbsGeoSG2.uasset" 232
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/Beta_Joints_MAT.uasset" 233
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/xbot_PhysicsAsset.uasset" 234
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/X-Bot/BrokenSkeletons/xbot.uasset" 235
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Character/BluePrints/BP_Character1.uasset" 236
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Worlds/GM_Adventure2.uasset" 237
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Worlds/DemoDungeon_BuiltData.uasset" 238
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/M_Floor.uasset" 239
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_basecolor.uasset" 240
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_basecolor-boosted.uasset" 241
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_metallic.uasset" 242
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_normal.uasset" 243
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/GoldMaterial/gold-scuffed_roughness.uasset" 244
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/M_Gold.uasset" 245
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/M_Ruby.uasset" 246
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/BuildingMaterials/M_Wall.uasset" 247
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Terrain/M_SurfaceWater.uasset" 248
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Environment/Terrain/M_Water.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 250
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Worlds/UI_GameStates.uasset" 251
+"../../../../../School Stuff/GraphicsDemoDungeonUE/Content/Worlds/DemoDungeon.umap" 252
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 253
+"../../../Engine/Content/Maps/Entry.umap" 254
